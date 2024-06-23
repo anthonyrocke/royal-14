@@ -1,0 +1,17 @@
+.tony
+      {
+        padding: 40px 10;
+        border-radius: 10;
+        background-color: aqua;
+
+      }
+      .container-fluid:root{
+                          background-color: blue;
+                          text-emphasis-color: #fff;
+                          moz-text-decoration-color: #29fd53;
+      }
+      .john{
+        background-color: blue;
+        text-emphasis-color: #fff;
+        -moz-text-decoration-color: #44a858;
+      }
